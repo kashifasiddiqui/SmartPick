@@ -1,7 +1,9 @@
-# Smartpick-ML Project
+# SmartPick-ML Project
 
 ## Overview
 Smartpick-ML is a multi-component project designed for intelligent item detection, tracking, and management. It integrates machine learning, image processing, and web technologies to provide a comprehensive solution for real-time monitoring and record management.
+
+IoT-based safety system to enhance student security using advanced face recognition technology. Utilized Arduino modules and sensors for real-time monitoring and data collection to automate attendance and student identification. Integrated hardware and software components for seamless functionality and reliable system performance.
 
 ## Project Structure
 - **db1, db1copy, db/**: Database-related files and folders.
@@ -18,6 +20,8 @@ Smartpick-ML is a multi-component project designed for intelligent item detectio
 - Image upload and categorization.
 - RESTful APIs for data access and manipulation.
 - Integration with WiFi camera hardware.
+- Automated attendance and student identification.
+- Real-time monitoring and data collection.
 
 ## Setup Instructions
 ### Python Backend
