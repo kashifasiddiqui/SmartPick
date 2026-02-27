@@ -69,7 +69,9 @@ This project is licensed under the MIT License.
 
 ## Authors
 - Kashif
-- NMIMS Team
+- Reyansh
+- Deepak
+- Arya
 
 ## Contact
 For questions or support, please contact the project maintainers.
